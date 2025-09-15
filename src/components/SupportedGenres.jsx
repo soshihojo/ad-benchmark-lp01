@@ -24,7 +24,7 @@ const SupportedGenres = () => {
       <div className="text-center">
         {genres.map((genre, index) => (
           <span key={index} className="badge rounded-pill bg-secondary m-1 p-2 fs-6 fw-normal d-inline-flex align-items-center">
-            <span className="material-icons me-1" style={{ verticalAlign: 'middle', fontSize: '1em' }}>{genre.icon}</span>
+            <span className="material-icons me-1 text-info" style={{ verticalAlign: 'middle', fontSize: '1em' }}>{genre.icon}</span>
             {genre.name}
           </span>
         ))}
