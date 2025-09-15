@@ -11,7 +11,7 @@ const Description = () => {
         </div>
         <div className="col-lg-6">
           <figure className="text-center">
-            <img src="/アドベンチマーク_デモ画面.png" alt="アドベンチマーク操作画面" className="img-fluid rounded shadow-lg" />
+            <img src="/アドベンチマーク_UI.jpg" alt="アドベンチマーク操作画面" className="img-fluid rounded shadow-lg" />
             <figcaption className="mt-2 text-muted">アドベンチマーク操作画面</figcaption>
           </figure>
         </div>
