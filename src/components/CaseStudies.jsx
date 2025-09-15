@@ -36,7 +36,7 @@ const CaseStudies = () => {
                   <span className="material-icons" style={{ fontSize: '6rem' }}>trending_up</span>
                   <div className="ms-3">
                     <p className="display-4 fw-bold mb-0">+330万円</p>
-                    <p className="text-muted mb-0 text-end">(粗利 約67万円)</p>
+                    <p className="fs-5 mb-0 text-end">(粗利 約67万円)</p>
                   </div>
                 </div>
                 <p className="mt-auto">自社では配信していなかった媒体のうち、獲得効率が良い媒体を見つけて配信することで月間広告費が大きくアップしました。</p>
@@ -50,3 +50,4 @@ const CaseStudies = () => {
 };
 
 export default CaseStudies;
+default CaseStudies;

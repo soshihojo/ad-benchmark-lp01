@@ -30,7 +30,7 @@ const Problems = () => {
             </div>
           </div>
           <div className="col-lg-6">
-            <h3 className="text-center mb-4">インハウス運用向け</h3>
+            <h3 className="text-center mb-4 fw-bold">インハウス運用向け</h3>
             <div className="px-lg-5">
               {inhouseProblems.map((problem, index) => (
                 <div key={index} className="d-flex align-items-center mb-3 p-3 bg-white rounded shadow-sm">

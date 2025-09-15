@@ -10,7 +10,7 @@ const Contact = () => {
         <p className="lead mb-4">サービスに関するご質問、無料デモのお申し込みは<br/>こちらのフォームからお気軽にご連絡ください。</p>
         <div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
           <a href={googleFormUrl} target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-lg px-4 gap-3">
-            サービス詳細を聞いてみる
+            サービスの詳細を聞いてみる
             <span className="material-icons ms-2" style={{ verticalAlign: 'middle' }}>open_in_new</span>
           </a>
         </div>
