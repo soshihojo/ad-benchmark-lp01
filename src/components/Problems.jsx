@@ -4,7 +4,7 @@ const Problems = () => {
   const agencyProblems = [
     { icon: 'trending_down', text: '新規提案時の受注率が低い' },
     { icon: 'create_new_folder', text: '社内に事例がない案件の提案が作りづらい' },
-    { icon: 'warning', text: '特定の媒体しか開拓出来ておらずリスクがある' },
+    { icon: 'warning', text: '特定の媒体しか開拓出来ておらずリスクを感じている' },,
   ];
 
   const inhouseProblems = [
