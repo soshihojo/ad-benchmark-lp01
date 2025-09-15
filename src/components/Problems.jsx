@@ -19,7 +19,7 @@ const Problems = () => {
         <h2 className="text-center mb-5">アドベンチマークは、<br className="d-block d-md-none"/>以下のような悩みを解決するサービスです。</h2>
         <div className="row gx-5">
           <div className="col-lg-6 mb-5 mb-lg-0">
-            <h3 className="text-center mb-4">広告代理店向け</h3>
+            <h3 className="text-center mb-4 fw-bold">広告代理店向け</h3>
             <div className="px-lg-5">
               {agencyProblems.map((problem, index) => (
                 <div key={index} className="d-flex align-items-center mb-3 p-3 bg-white rounded shadow-sm">
