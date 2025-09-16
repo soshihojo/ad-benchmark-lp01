@@ -13,8 +13,8 @@ const Hero = () => {
                     サービスの詳細を聞いてみる
                 </a>
                 <div className="mb-5">
-                    <p className="fs-5 mb-1"><span className="material-icons text-success me-2" style={{ verticalAlign: 'middle' }}>task_alt</span>新規営業における受注率が<span style={{ fontSize: '1.2em' }} className="text-primary">約2倍</span>に改善</p>
-                    <p className="fs-5 mb-0"><span className="material-icons text-success me-2" style={{ verticalAlign: 'middle' }}>task_alt</span>月間<span style={{ fontSize: '1.2em' }} className="text-primary">広告費約330万円アップ</span>の実績</p>
+                    <p className="fs-5 mb-1"><span className="material-icons text-success me-2" style={{ verticalAlign: 'middle' }}>task_alt</span>新規営業における受注率が<span style={{ fontSize: '1.2em' }} className="text-primary fw-bold">約2倍</span>に改善</p>
+                    <p className="fs-5 mb-0"><span className="material-icons text-success me-2" style={{ verticalAlign: 'middle' }}>task_alt</span>月間<span style={{ fontSize: '1.2em' }} className="text-primary fw-bold">広告費約330万円アップ</span>の実績</p>
                 </div>
             </div>
         </div>
