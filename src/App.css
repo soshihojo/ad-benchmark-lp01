@@ -4,7 +4,7 @@ body {
 
 .btn-3d {
   position: relative;
-  background: linear-gradient(to bottom, #28a745 0%, #1e7e34 100%); /* Success green gradient */
+  background: linear-gradient(to bottom, #20c997 0%, #198754 100%); /* Bootstrap Success green gradient */
   border: none;
   border-radius: 0.5rem; /* Slightly more rounded */
   box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.2),
