@@ -9,7 +9,7 @@ const Contact = () => {
       <div className="col-lg-6 mx-auto">
         <p className="lead mb-4">サービスに関するご質問、無料デモのお申し込みは<br/>こちらのフォームからお気軽にご連絡ください。</p>
         <div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
-          <a href={googleFormUrl} target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-lg px-4 gap-3 shadow-lg btn-lift-hover">
+          <a href={googleFormUrl} target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-lg px-4 gap-3 btn-3d">
             サービスの詳細を聞いてみる
             <span className="material-icons ms-2" style={{ verticalAlign: 'middle' }}>open_in_new</span>
           </a>
