@@ -1,3 +1,12 @@
 body {
   color: #333333;
 }
+
+.btn-lift-hover {
+  transition: all 0.2s ease-in-out;
+}
+
+.btn-lift-hover:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important; /* Adjust shadow on hover */
+}

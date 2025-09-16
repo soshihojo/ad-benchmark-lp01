@@ -9,7 +9,7 @@ const Hero = () => {
             <div className="container py-3">
                 <h1 className="display-4 fw-bold lh-sm mb-3">広告の相場感を可視化する<br/>アドベンチマーク</h1>
                 <p className="fs-4 mb-5">商材・媒体ごとの相場感と改善余地が分かる</p>
-                <a href={contactFormUrl} target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-lg mb-4">
+                <a href={contactFormUrl} target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-lg mb-4 shadow-lg btn-lift-hover">
                     サービスの詳細を聞いてみる
                 </a>
                 <div className="mb-5">
